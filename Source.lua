@@ -428,7 +428,7 @@ function Library:create(options)
 		Name = "Mercury",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes[settings.Theme],
-		Link = "https://github.com/AvalonMods/Avalon-UI-Lib"
+		Link = "https://github.com/shezan78/Mercury-Ui-Lib"
 	}, options)
 
 	if getgenv and getgenv().MercuryUI then
